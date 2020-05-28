@@ -1,0 +1,3086 @@
+﻿1
+00:00:53,482 --> 00:00:55,116
+Kamu ingat lagu ini?
+
+2
+00:00:55,242 --> 00:00:57,051
+"Je te veux" oleh Erik Satie.
+
+3
+00:00:57,051 --> 00:00:59,482
+Lagu ini digubah pada tahun 1891...
+
+4
+00:00:59,482 --> 00:01:00,656
+Berhenti.
+
+5
+00:01:02,502 --> 00:01:03,916
+Hentikan musiknya.
+
+6
+00:01:08,771 --> 00:01:09,812
+"Ha Won"
+
+7
+00:01:09,812 --> 00:01:11,381
+Siapa kamu?
+
+8
+00:01:11,381 --> 00:01:13,027
+Aku Ha Won.
+
+9
+00:01:14,181 --> 00:01:16,396
+Bukan.
+
+10
+00:01:16,782 --> 00:01:20,122
+Jika aku tanya Ha Won siapa dia,
+
+11
+00:01:20,122 --> 00:01:22,791
+dia seharusnya kesal dan bertanya
+
+12
+00:01:22,791 --> 00:01:26,362
+apa ada yang salah denganku. Begitulah reaksi Ha Won,
+
+13
+00:01:26,362 --> 00:01:29,476
+bukan "Aku Ha Won."
+
+14
+00:01:29,901 --> 00:01:31,437
+Dengarkan.
+
+15
+00:01:32,601 --> 00:01:36,541
+Kamu alat percakapan dengan karakter dan emosi Ha Won.
+
+16
+00:01:36,541 --> 00:01:40,411
+Jadi, kamu harus melakukan percakapan seperti dia.
+
+17
+00:01:40,411 --> 00:01:43,057
+Kamu lebih buruk dari Siri.
+
+18
+00:01:44,082 --> 00:01:45,786
+Aku menyinggung perasaanmu, bukan?
+
+19
+00:01:45,881 --> 00:01:47,956
+Perasaanku juga sakit.
+
+20
+00:01:48,881 --> 00:01:51,820
+Kenapa dia tidak masuk? Ini sudah berhari-hari.
+
+21
+00:01:51,821 --> 00:01:54,167
+Tolong tanyakan satu per satu.
+
+22
+00:01:54,521 --> 00:01:55,967
+Cukup.
+
+23
+00:01:56,422 --> 00:01:58,222
+Astaga. Ada apa?
+
+24
+00:01:58,222 --> 00:02:00,291
+Aku yakin mendengar suara Kepala Ha Won.
+
+25
+00:02:00,291 --> 00:02:01,736
+Dia di sana.
+
+26
+00:02:02,601 --> 00:02:04,002
+Aku belum pernah melihatnya.
+
+27
+00:02:04,002 --> 00:02:06,646
+Kalian membuat sesuatu lagi?
+
+28
+00:02:06,801 --> 00:02:08,172
+Kapan kalian akan membaginya dengan kami?
+
+29
+00:02:08,172 --> 00:02:10,547
+Ini masih belum cukup bagus.
+
+30
+00:02:11,442 --> 00:02:12,687
+Hadirilah rapat.
+
+31
+00:02:13,872 --> 00:02:15,911
+Mereka menghubungkan DNA dan bidang medis
+
+32
+00:02:15,911 --> 00:02:18,541
+untuk menciptakan "obat jaringan".
+
+33
+00:02:18,541 --> 00:02:20,086
+- Ini. - AH
+
+34
+00:02:20,312 --> 00:02:21,712
+- memakai AI - Terima kasih.
+
+35
+00:02:21,712 --> 00:02:25,622
+dan memimpin industri penelitian medis.
+
+36
+00:02:25,622 --> 00:02:26,866
+Hentikan.
+
+37
+00:02:27,791 --> 00:02:28,921
+Singkirkan citraku.
+
+38
+00:02:28,921 --> 00:02:31,522
+Rumah sakit meminta kita memasukkannya.
+
+39
+00:02:31,522 --> 00:02:32,836
+Singkirkan.
+
+40
+00:02:34,032 --> 00:02:36,176
+Aku akan menggantinya dengan citra Pak Kim.
+
+41
+00:02:38,231 --> 00:02:41,146
+Dan memimpin industri penelitian medis.
+
+42
+00:02:42,231 --> 00:02:45,001
+Yang sebelumnya tampak jauh lebih baik.
+
+43
+00:02:45,002 --> 00:02:47,047
+Tapi itu tampak bisa dipercaya.
+
+44
+00:02:47,611 --> 00:02:49,981
+Apa akurasi untuk evaluasi psikologis?
+
+45
+00:02:49,981 --> 00:02:51,686
+93 persen.
+
+46
+00:02:51,812 --> 00:02:54,511
+Jika AI bisa mendiagnosis pasien dengan akurasi 93 persen,
+
+47
+00:02:54,511 --> 00:02:56,357
+itu sama saja yang terbaik di dunia.
+
+48
+00:03:00,451 --> 00:03:03,192
+Apa? Karakter dan emosimu?
+
+49
+00:03:03,192 --> 00:03:06,267
+Yang benar saja. Mirip saja tidak.
+
+50
+00:03:08,932 --> 00:03:10,276
+Dengar.
+
+51
+00:03:10,802 --> 00:03:14,201
+Sampai sekarang, komputer diadaptasi
+
+52
+00:03:14,201 --> 00:03:17,176
+bagi mereka yang menggunakan emosi orang biasa.
+
+53
+00:03:17,272 --> 00:03:20,411
+Tapi kamu memasukkan emosi seseorang ke sana.
+
+54
+00:03:20,411 --> 00:03:23,287
+Ini pencapaian besar. Sungguh.
+
+55
+00:03:23,641 --> 00:03:25,156
+Tapi tidak bisa begitu.
+
+56
+00:03:26,282 --> 00:03:28,381
+Satu-satunya cara adalah melalui dialog.
+
+57
+00:03:28,381 --> 00:03:30,552
+Itu tidak akan berhasil denganku, kupikir akan berhasil denganmu.
+
+58
+00:03:30,552 --> 00:03:33,092
+Itu tidak akan berhasil. Aku membawanya ke mana pun
+
+59
+00:03:33,092 --> 00:03:36,192
+dan bicara dengannya empat hari berturut-turut.
+
+60
+00:03:36,192 --> 00:03:37,791
+Kita belum menemukan titik reaksi.
+
+61
+00:03:37,791 --> 00:03:40,462
+Benar. Apa sebenarnya titik reaksi?
+
+62
+00:03:40,462 --> 00:03:44,776
+Kapan dan bagaimana, kapan itu akan menjadi dirimu?
+
+63
+00:03:44,802 --> 00:03:47,306
+Apa yang akan membuat mesin ini menjadi kamu?
+
+64
+00:03:48,601 --> 00:03:50,272
+Dia akan menemukannya sendiri.
+
+65
+00:03:50,272 --> 00:03:53,017
+Jika kita tidak tahu titik reaksinya,
+
+66
+00:03:55,372 --> 00:03:56,517
+ini barang gagal.
+
+67
+00:03:58,442 --> 00:03:59,757
+Semoga berhasil.
+
+68
+00:04:10,092 --> 00:04:13,706
+"A Piece of Your Mind"
+
+69
+00:04:16,502 --> 00:04:18,077
+"Episode 1"
+
+70
+00:06:10,881 --> 00:06:12,057
+Ada apa?
+
+71
+00:06:12,552 --> 00:06:14,086
+Aku mengikuti suara musik.
+
+72
+00:06:16,381 --> 00:06:19,567
+Induk semang yang serakah menyingkirkan studio ini.
+
+73
+00:06:31,302 --> 00:06:33,507
+Mari mulai lagi dari sini.
+
+74
+00:06:40,711 --> 00:06:41,846
+Semoga harimu menyenangkan.
+
+75
+00:06:43,612 --> 00:06:46,086
+Biarkan pintunya terbuka agar orang-orang bisa mendengarnya.
+
+76
+00:06:46,682 --> 00:06:48,757
+Ini lagu terakhir yang kami rekam di sini.
+
+77
+00:07:21,211 --> 00:07:22,387
+Selamat tinggal.
+
+78
+00:07:38,131 --> 00:07:39,447
+Hujan turun.
+
+79
+00:07:49,242 --> 00:07:51,257
+Aku ingin tinggal lebih lama.
+
+80
+00:08:45,331 --> 00:08:47,707
+"Dijual atau disewa"
+
+81
+00:08:49,442 --> 00:08:51,217
+Petirnya sangat keras.
+
+82
+00:09:33,552 --> 00:09:34,757
+Pukul 16.00.
+
+83
+00:09:35,312 --> 00:09:36,857
+Ini masih sore, tapi sudah gelap.
+
+84
+00:09:38,022 --> 00:09:39,257
+Norwegia.
+
+85
+00:09:40,052 --> 00:09:41,227
+Oslo.
+
+86
+00:09:42,192 --> 00:09:43,497
+Hutan dalam perjalanan pulang sekolah.
+
+87
+00:09:43,991 --> 00:09:45,536
+Sore yang gelap.
+
+88
+00:09:46,292 --> 00:09:47,507
+Kamu ingat?
+
+89
+00:09:58,442 --> 00:10:00,017
+Ji Soo dahulu takut.
+
+90
+00:10:13,422 --> 00:10:16,396
+Saat kami berjalan melewati hutan dalam perjalanan pulang sekolah,
+
+91
+00:10:17,062 --> 00:10:18,436
+pukul 15.20.
+
+92
+00:10:19,932 --> 00:10:21,467
+Hari menjadi gelap dalam sekejap.
+
+93
+00:10:51,522 --> 00:10:53,436
+Ji Soo menamainya
+
+94
+00:10:58,162 --> 00:11:00,946
+- sore malam. - Sore malam.
+
+95
+00:11:28,292 --> 00:11:31,032
+"Koleksi peralatan makan"
+
+96
+00:11:31,032 --> 00:11:34,847
+"Jika tertarik pada barangnya, silakan hubungi nomor di bawah"
+
+97
+00:11:40,608 --> 00:12:40,437
+(Ads 00:11:40 --> 00:12:40)
+
+98
+00:12:50,343 --> 00:12:51,488
+Jadi, apa titik reaksinya?
+
+99
+00:12:51,943 --> 00:12:53,258
+- Petir. - Petir...
+
+100
+00:12:54,512 --> 00:12:55,817
+Petir? Itu sangat aneh.
+
+101
+00:12:56,413 --> 00:12:57,727
+Dia melakukannya dengan caranya.
+
+102
+00:13:00,183 --> 00:13:01,427
+Tapi...
+
+103
+00:13:03,323 --> 00:13:05,528
+- Bagaimana mengatakannya? - Hoon.
+
+104
+00:13:06,323 --> 00:13:07,638
+Apa?
+
+105
+00:13:11,892 --> 00:13:15,908
+Karena sudah canggih, aku ingin menanyakan sesuatu.
+
+106
+00:13:19,703 --> 00:13:21,378
+Kamu masih mencintai Kim Ji Soo?
+
+107
+00:13:24,872 --> 00:13:28,213
+Laboratorium AH menggabungkan dan menarik pola
+
+108
+00:13:28,213 --> 00:13:30,512
+dari matematika, obat, sains, dan kemanusiaan.
+
+109
+00:13:30,512 --> 00:13:33,298
+Ini telah mengembangkan sistem jaringan terlinear khusus.
+
+110
+00:13:34,752 --> 00:13:36,128
+Waktu telah berlalu
+
+111
+00:13:36,752 --> 00:13:38,967
+dan kerinduan terhadap dirinya telah sedikit berubah.
+
+112
+00:13:40,862 --> 00:13:42,697
+Kecuali perasaan agak hampa ini,
+
+113
+00:13:43,532 --> 00:13:44,807
+semuanya masih sama.
+
+114
+00:14:06,482 --> 00:14:07,683
+Pak Park.
+
+115
+00:14:07,683 --> 00:14:09,223
+Pohon-pohon ini bagus sekali.
+
+116
+00:14:09,223 --> 00:14:11,168
+Makin lama makin bagus.
+
+117
+00:14:12,093 --> 00:14:14,022
+Astaga!
+
+118
+00:14:14,022 --> 00:14:15,022
+Kamu baik-baik saja?
+
+119
+00:14:15,022 --> 00:14:16,492
+Aku baik-baik saja.
+
+120
+00:14:16,492 --> 00:14:20,177
+Astaga. Kalian pasti tidak baik-baik saja.
+
+121
+00:14:21,032 --> 00:14:24,433
+Astaga. Pasti aku tidak fokus.
+
+122
+00:14:24,433 --> 00:14:26,272
+Aku tersandung apa?
+
+123
+00:14:26,272 --> 00:14:28,772
+Berdiri, Kawan-kawan.
+
+124
+00:14:28,772 --> 00:14:31,548
+Astaga, aku tidak berdaya.
+
+125
+00:14:31,772 --> 00:14:34,488
+Melelahkan sekali.
+
+126
+00:15:01,943 --> 00:15:03,947
+Hai, Paman.
+
+127
+00:15:04,512 --> 00:15:05,648
+Apa?
+
+128
+00:15:07,083 --> 00:15:08,717
+Kapan Paman datang?
+
+129
+00:15:46,683 --> 00:15:47,758
+"Video Praktik Piano Ji Soo 1998"
+
+130
+00:15:53,923 --> 00:15:54,998
+"Video Praktik Piano Ji Soo 1998"
+
+131
+00:15:55,862 --> 00:15:58,207
+Kapan Nenek meninggalkan Oslo?
+
+132
+00:15:58,762 --> 00:16:01,408
+Dia di sana dari tahun 1997 hingga 2005.
+
+133
+00:16:02,862 --> 00:16:04,248
+Astaga.
+
+134
+00:16:05,473 --> 00:16:07,148
+Astaga.
+
+135
+00:16:08,902 --> 00:16:11,142
+Nenek bilang dia di Afrika sepanjang waktu.
+
+136
+00:16:11,142 --> 00:16:12,648
+Aku punya banyak pekerjaan.
+
+137
+00:16:13,313 --> 00:16:15,583
+Sinar UV tidak main-main di peternakan.
+
+138
+00:16:15,583 --> 00:16:18,427
+Sinarnya menembus apa pun. Semua melanin...
+
+139
+00:16:18,512 --> 00:16:20,852
+Dahulu kulitku ini sumber kecantikanku.
+
+140
+00:16:20,852 --> 00:16:22,498
+Jangan duduk di ambang pintu.
+
+141
+00:16:23,302 --> 00:16:25,418
+Tidak ada ruginya lagi aku di sini.
+
+142
+00:16:29,442 --> 00:16:31,517
+Sudah berapa tahun Soon Ho bekerja di peternakan?
+
+143
+00:16:31,542 --> 00:16:33,088
+- Delapan tahun. - Sembilan tahun.
+
+144
+00:16:33,912 --> 00:16:36,698
+Benda itu menguranginya satu tahun. Sembilan tahun.
+
+145
+00:16:43,292 --> 00:16:46,492
+Paman, apa mungkin aku bisa pergi ke Seoul?
+
+146
+00:16:46,493 --> 00:16:47,662
+Aku ingin meninggalkan tempat ini.
+
+147
+00:16:47,662 --> 00:16:49,267
+Kamu bilang tidak mau meninggalkan peternakan.
+
+148
+00:16:49,463 --> 00:16:50,838
+Semua itu sudah berlalu.
+
+149
+00:16:54,932 --> 00:16:56,877
+Mungkin ada pekerjaan untukmu.
+
+150
+00:16:58,202 --> 00:17:00,218
+Apa? Di mana?
+
+151
+00:17:00,442 --> 00:17:02,247
+Kamu membeli studio rekaman?
+
+152
+00:17:02,613 --> 00:17:04,643
+Itu tempat terbaik untuk mengumpulkan suara.
+
+153
+00:17:04,643 --> 00:17:06,588
+Aku ingin melakukan tes di sana dengan satu orang lagi.
+
+154
+00:17:06,613 --> 00:17:09,687
+Benar, kamu tidak boleh berbagi. Jangan membuka isi kepalamu.
+
+155
+00:17:10,183 --> 00:17:12,028
+Aku juga tidak akan membaginya.
+
+156
+00:17:13,023 --> 00:17:14,268
+Siapa itu?
+
+157
+00:17:34,642 --> 00:17:36,812
+Paman ingin aku bertemu dengan Kim Ji Soo?
+
+158
+00:17:36,812 --> 00:17:38,217
+Baiklah.
+
+159
+00:17:38,743 --> 00:17:42,253
+Aku akan menampar wajahnya begitu bertemu dengannya.
+
+160
+00:17:42,253 --> 00:17:44,822
+Lalu aku akan tanya bagaimana rasanya melewatkan
+
+161
+00:17:44,822 --> 00:17:47,993
+Mark Zuckerberg dari Korea dan merekam raut wajahnya.
+
+162
+00:17:47,993 --> 00:17:51,268
+Soon Ho, itu bukan perbandingan yang tepat.
+
+163
+00:17:51,493 --> 00:17:52,763
+Dan aku merasa kamu akan benar-benar menamparnya.
+
+164
+00:17:52,763 --> 00:17:55,268
+Ini yang harus kulakukan.
+
+165
+00:17:56,193 --> 00:17:57,478
+Apa imbalanku?
+
+166
+00:17:58,132 --> 00:18:01,248
+Ada seseorang yang cocok dengan Ji Soo.
+
+167
+00:18:13,453 --> 00:18:14,528
+"Dijual atau disewa"
+
+168
+00:18:26,933 --> 00:18:28,338
+Bisa minggir?
+
+169
+00:18:31,503 --> 00:18:33,978
+- Kemarikan. - Tidak apa-apa.
+
+170
+00:18:36,673 --> 00:18:38,902
+Kamu berkunjung ke lantai berapa?
+
+171
+00:18:38,903 --> 00:18:40,312
+Lantai dua.
+
+172
+00:18:40,312 --> 00:18:42,713
+Aku meninggalkan kaktus di sini karena ada di sini sebelum pindah,
+
+173
+00:18:42,713 --> 00:18:44,913
+tapi mereka mungkin akan membuangnya saat studio dibersihkan,
+
+174
+00:18:44,913 --> 00:18:46,082
+jadi, aku datang mengambilnya.
+
+175
+00:18:46,082 --> 00:18:48,127
+Begitu rupanya. Kamu bekerja di studio.
+
+176
+00:18:48,653 --> 00:18:50,223
+Kamu ingin aku meletakkan ini di mana?
+
+177
+00:18:50,223 --> 00:18:51,657
+Di sana.
+
+178
+00:18:52,453 --> 00:18:53,998
+Apa yang kamu lakukan di studio?
+
+179
+00:18:54,223 --> 00:18:56,028
+Aku adalah penata suara.
+
+180
+00:18:59,822 --> 00:19:02,768
+Ada seseorang yang cocok dengan Ji Soo.
+
+181
+00:19:05,032 --> 00:19:07,632
+Aku suka aroma kekosongan.
+
+182
+00:19:07,632 --> 00:19:09,733
+Tidak banyak studio rekaman hanya untuk musik klasik.
+
+183
+00:19:09,733 --> 00:19:11,642
+Aku tidak mengerti kenapa mereka menutupnya.
+
+184
+00:19:11,642 --> 00:19:14,488
+Hanya untuk musik klasik? Kenapa?
+
+185
+00:19:14,743 --> 00:19:16,882
+Tapi siapa bilang itu tutup?
+
+186
+00:19:16,882 --> 00:19:18,357
+Tidak mungkin.
+
+187
+00:19:18,542 --> 00:19:20,088
+Kami tidak akan menutupnya.
+
+188
+00:19:20,112 --> 00:19:22,887
+Aku manajer baru di sini.
+
+189
+00:19:23,923 --> 00:19:25,528
+Tidak mungkin.
+
+190
+00:19:25,552 --> 00:19:26,657
+Apa?
+
+191
+00:19:27,653 --> 00:19:30,467
+Kukira itu akhirnya, tapi ternyata bukan.
+
+192
+00:19:31,023 --> 00:19:34,391
+Benar, bukan? Bisakah aku tetap bekerja di sini?
+
+193
+00:19:34,392 --> 00:19:35,632
+Kamu mengambil jurusan apa saat kuliah?
+
+194
+00:19:35,632 --> 00:19:36,933
+- Pemrosesan data. - Astaga.
+
+195
+00:19:36,933 --> 00:19:38,607
+Tapi bagaimana kamu bisa bekerja di bidang ini?
+
+196
+00:19:38,933 --> 00:19:41,733
+Aku juga belajar musik dan bidang teknik
+
+197
+00:19:41,733 --> 00:19:43,048
+- pada dasarnya... - Bagaimana dengan usiamu?
+
+198
+00:19:44,042 --> 00:19:45,417
+Usiaku 29 tahun.
+
+199
+00:19:45,503 --> 00:19:48,812
+Ini tidak bagus. Usia 29 tahun itu masalah terbesar.
+
+200
+00:19:48,812 --> 00:19:51,542
+Mereka pikir hidup mereka yang terburuk di dunia ini.
+
+201
+00:19:51,542 --> 00:19:54,112
+Mereka lebih buruk dari orang berusia 39 dan 49 tahun.
+
+202
+00:19:54,112 --> 00:19:57,281
+Mereka yang paling sering mengeluh, berkata sudah sangat tua.
+
+203
+00:19:57,282 --> 00:20:00,528
+Mereka pikir hidup mereka berakhir begitu berusia 30 tahun.
+
+204
+00:20:01,193 --> 00:20:03,523
+Bisakah aku tetap bekerja di studio?
+
+205
+00:20:03,523 --> 00:20:04,897
+Kita bahas itu nanti.
+
+206
+00:20:05,862 --> 00:20:09,207
+Astaga, punggungku.
+
+207
+00:20:13,302 --> 00:20:14,978
+Bisakah kamu membelikanku peralatan makan?
+
+208
+00:20:18,142 --> 00:20:19,142
+"Penginapan Eunjoo"
+
+209
+00:20:19,142 --> 00:20:20,818
+Ada apa dengan peralatan makannya?
+
+210
+00:20:21,112 --> 00:20:23,812
+Dia bisa membelinya sendiri. Kenapa menyuruh orang lain?
+
+211
+00:20:23,812 --> 00:20:25,111
+Rasanya aneh.
+
+212
+00:20:25,112 --> 00:20:26,483
+Terima kasih.
+
+213
+00:20:26,483 --> 00:20:27,913
+Itu bukan masalah besar.
+
+214
+00:20:27,913 --> 00:20:29,028
+Bagaimana dengan pekerjaan?
+
+215
+00:20:29,812 --> 00:20:31,228
+Kakak tetap di sana?
+
+216
+00:20:31,453 --> 00:20:33,022
+Terima kasih atas makanannya.
+
+217
+00:20:33,023 --> 00:20:35,268
+Dia tidak menyuruh kakak berhenti datang.
+
+218
+00:20:37,223 --> 00:20:39,098
+- Astaga. - Ini.
+
+219
+00:20:44,733 --> 00:20:46,038
+Halo?
+
+220
+00:20:46,632 --> 00:20:47,707
+Ya.
+
+221
+00:20:49,433 --> 00:20:50,518
+Apa?
+
+222
+00:20:52,203 --> 00:20:53,717
+Aku akan segera keluar.
+
+223
+00:20:54,612 --> 00:20:55,913
+Kakak harus keluar sebentar.
+
+224
+00:20:55,913 --> 00:20:56,988
+Ada apa?
+
+225
+00:20:57,082 --> 00:20:59,642
+Ini tidak biasa. Penjualnya datang ke sini sendiri.
+
+226
+00:20:59,642 --> 00:21:01,312
+- Siapa? - Kim Ji Soo.
+
+227
+00:21:01,312 --> 00:21:02,828
+- Kakak mengenalnya? - Tidak.
+
+228
+00:21:10,892 --> 00:21:11,993
+Apa sup hari ini?
+
+229
+00:21:11,993 --> 00:21:13,607
+Sup taoge.
+
+230
+00:21:13,832 --> 00:21:15,508
+Dengan tahu?
+
+231
+00:21:15,532 --> 00:21:17,038
+Terserah.
+
+232
+00:21:18,102 --> 00:21:20,248
+- Apa? - Astaga.
+
+233
+00:21:39,882 --> 00:21:41,967
+Itu bukan apa-apa.
+
+234
+00:21:42,723 --> 00:21:47,467
+Hanya orang asing yang mendaki bukit.
+
+235
+00:21:50,362 --> 00:21:51,808
+Tapi anehnya,
+
+236
+00:21:52,832 --> 00:21:55,677
+dia memasuki hatiku.
+
+237
+00:22:15,653 --> 00:22:17,298
+Nona Kim Ji Soo?
+
+238
+00:22:20,193 --> 00:22:22,038
+Aku sangat bersyukur
+
+239
+00:22:22,933 --> 00:22:25,137
+dan tidak mau ini pecah.
+
+240
+00:22:53,423 --> 00:22:54,907
+Ini peralatan makannya.
+
+241
+00:23:05,443 --> 00:23:06,647
+Simpan saja.
+
+242
+00:23:08,872 --> 00:23:10,342
+- Kenapa? - Itulah kehidupan.
+
+243
+00:23:10,342 --> 00:23:13,318
+Banyak hal yang tidak bisa kamu jelaskan.
+
+244
+00:23:16,413 --> 00:23:18,352
+Tapi dia ada.
+
+245
+00:23:18,352 --> 00:23:20,122
+Kim Ji Soo benar-benar ada.
+
+246
+00:23:20,122 --> 00:23:21,598
+Kamu mengenalnya?
+
+247
+00:23:23,023 --> 00:23:24,622
+Dalam imajinasiku.
+
+248
+00:23:24,622 --> 00:23:28,467
+Aku hanya membayangkannya selama sembilan tahun.
+
+249
+00:23:28,493 --> 00:23:29,707
+Kenapa?
+
+250
+00:23:29,832 --> 00:23:32,132
+Karena aku mendengar tentangnya selama sembilan tahun.
+
+251
+00:23:32,132 --> 00:23:33,132
+Lalu?
+
+252
+00:23:33,132 --> 00:23:34,273
+Itu saja.
+
+253
+00:23:34,273 --> 00:23:37,318
+Aku tidak peduli dengan peralatan makan itu.
+
+254
+00:23:40,542 --> 00:23:44,713
+Kamu tidak peduli dengan itu, tapi Nona Kim rapi mengemasnya.
+
+255
+00:23:44,713 --> 00:23:47,713
+Dia naik bus dan mendaki bukit dengan boks berat.
+
+256
+00:23:47,713 --> 00:23:51,082
+Dia berterima kasih sepenuh hati setidaknya 100 kali sebelum pergi.
+
+257
+00:23:51,082 --> 00:23:52,957
+Jangan memperlakukan peralatan makannya seperti itu.
+
+258
+00:23:53,693 --> 00:23:54,798
+Ini.
+
+259
+00:23:55,953 --> 00:23:56,993
+Apa ini?
+
+260
+00:23:56,993 --> 00:23:59,768
+Dia bilang kamu akan tahu. Jadwal rekaman?
+
+261
+00:24:00,693 --> 00:24:02,362
+Aku tidak tahu para penyanyi ini.
+
+262
+00:24:02,362 --> 00:24:04,707
+Apa? Kamu tidak akan merekamnya jika tidak mengenal mereka?
+
+263
+00:24:05,102 --> 00:24:06,362
+- Tetap harus. - Pekerjaanmu banyak.
+
+264
+00:24:06,362 --> 00:24:07,447
+Ya.
+
+265
+00:24:08,602 --> 00:24:09,848
+Aku akan bekerja keras.
+
+266
+00:24:27,653 --> 00:24:29,768
+Hai.
+
+267
+00:24:36,263 --> 00:24:39,407
+Hai. Kamu juga. Hai.
+
+268
+00:24:44,173 --> 00:24:45,248
+Hai.
+
+269
+00:24:48,443 --> 00:24:51,258
+- Halo. - Siapa yang menduga?
+
+270
+00:24:51,342 --> 00:24:53,657
+Tidak kusangka kita bisa rekaman di sini lagi.
+
+271
+00:24:54,413 --> 00:24:55,788
+Benar, bukan?
+
+272
+00:25:07,532 --> 00:25:09,538
+- Turunkan keseimbangan selonya. - Baik.
+
+273
+00:25:58,713 --> 00:26:00,927
+Apa yang terjadi di sini?
+
+274
+00:26:07,292 --> 00:26:08,598
+Astaga. Apa yang terjadi di sini?
+
+275
+00:26:33,642 --> 00:26:36,558
+Lagi?
+
+276
+00:26:46,092 --> 00:26:47,467
+Sebelum Fajar.
+
+277
+00:26:47,963 --> 00:26:50,392
+Tolong bersihkan sebelum kamu pergi.
+
+278
+00:26:50,392 --> 00:26:51,738
+"Sebelum Fajar, tolong bersihkan sebelum kamu pergi"
+
+279
+00:27:19,523 --> 00:27:22,092
+Sore malam.
+
+280
+00:27:22,092 --> 00:27:24,738
+"Sore malam"
+
+281
+00:27:32,802 --> 00:27:34,117
+Kamu luar biasa.
+
+282
+00:27:35,312 --> 00:27:36,417
+Sungguh.
+
+283
+00:27:52,622 --> 00:27:55,508
+Permisi. Siapa kamu? Sedang apa kamu di sana?
+
+284
+00:27:56,233 --> 00:27:57,478
+Apa matahari sudah terbit?
+
+285
+00:28:11,513 --> 00:28:12,917
+Apa masalahnya?
+
+286
+00:28:18,082 --> 00:28:19,598
+Lihatlah jaraknya.
+
+287
+00:28:20,253 --> 00:28:22,028
+Dia pasti Sebelum Fajar.
+
+288
+00:28:33,032 --> 00:28:35,207
+- Apa ini? - Permisi.
+
+289
+00:28:37,443 --> 00:28:38,617
+Benar.
+
+290
+00:28:40,572 --> 00:28:42,417
+Aku selalu ingin bersih-bersih, tapi lupa.
+
+291
+00:28:42,812 --> 00:28:44,018
+Biar kubereskan.
+
+292
+00:28:44,842 --> 00:28:46,758
+Bukankah kamu menyewanya sampai sebelum fajar?
+
+293
+00:28:47,312 --> 00:28:48,857
+Sampai pukul 4.00.
+
+294
+00:28:49,253 --> 00:28:50,558
+Kamu tahu ini pukul berapa?
+
+295
+00:28:51,882 --> 00:28:53,328
+Aku sangat sibuk.
+
+296
+00:28:54,552 --> 00:28:56,322
+Aku tiba di sini pukul 8.30 tepat,
+
+297
+00:28:56,322 --> 00:28:58,923
+jadi, tolong bersihkan sebelum itu, ya?
+
+298
+00:28:58,923 --> 00:29:00,167
+Pukul 8.30.
+
+299
+00:29:17,112 --> 00:29:19,518
+Biarkan pintunya terbuka agar orang-orang bisa mendengarnya.
+
+300
+00:29:53,213 --> 00:29:54,328
+Seo Woo!
+
+301
+00:29:57,723 --> 00:29:58,897
+Kamu menemukannya.
+
+302
+00:29:59,882 --> 00:30:01,498
+Karena resital.
+
+303
+00:30:02,153 --> 00:30:03,627
+- Biar aku saja. - Tidak apa-apa.
+
+304
+00:30:06,423 --> 00:30:09,038
+Nenekku merawat pohon-pohon ini selama lebih dari 30 tahun.
+
+305
+00:30:09,532 --> 00:30:12,663
+Dia melakukannya sendiri? Luar biasa.
+
+306
+00:30:12,663 --> 00:30:15,748
+Dia mendedikasikan dirinya pada apa pun yang hidup.
+
+307
+00:30:16,673 --> 00:30:18,278
+Berapa orang yang datang?
+
+308
+00:30:18,602 --> 00:30:19,842
+Ruang tamu selalu penuh.
+
+309
+00:30:19,842 --> 00:30:21,548
+Terkadang, beberapa orang harus duduk di halaman.
+
+310
+00:30:22,213 --> 00:30:24,417
+Itu lebih besar dari dugaanku.
+
+311
+00:30:26,013 --> 00:30:27,887
+Ini seperti acara keluarga.
+
+312
+00:30:28,552 --> 00:30:30,558
+Saat nenekku menjadi diplomat,
+
+313
+00:30:30,882 --> 00:30:33,723
+dia biasa mensponsori anak-anak Korea yang amat berbakat
+
+314
+00:30:33,723 --> 00:30:36,427
+dan mengadakan resital. Dia pasti menyukainya.
+
+315
+00:30:38,163 --> 00:30:40,467
+Nenekmu melakukan banyak hal baik.
+
+316
+00:30:41,163 --> 00:30:42,238
+Benar.
+
+317
+00:30:42,463 --> 00:30:45,907
+Jika dia menabung semua uang itu, aku akan punya gedung.
+
+318
+00:30:47,933 --> 00:30:51,177
+Dia bersikeras bahwa mereka saudara dan keluarga,
+
+319
+00:30:51,342 --> 00:30:52,647
+tapi tidak sama.
+
+320
+00:30:53,342 --> 00:30:55,542
+Aku hanya menganggap satu paman keluargaku,
+
+321
+00:30:55,542 --> 00:30:57,588
+dan yang lainnya adalah orang asing bagiku.
+
+322
+00:30:57,913 --> 00:30:59,887
+Kenapa hanya dia?
+
+323
+00:31:00,513 --> 00:31:02,828
+Karena dia tampan dan sukses.
+
+324
+00:31:06,153 --> 00:31:08,528
+Aku tidak percaya kamu tertipu. Aku bercanda.
+
+325
+00:31:08,792 --> 00:31:12,068
+Aku punya sejarah spesial dengan pamanku.
+
+326
+00:31:15,493 --> 00:31:18,238
+Aku belum pernah menemui orang yang menyokong orang.
+
+327
+00:31:18,562 --> 00:31:20,038
+Dia luar biasa.
+
+328
+00:31:20,102 --> 00:31:23,647
+Bagaimana menurutmu? Kamu lebih memercayaiku sekarang?
+
+329
+00:31:25,102 --> 00:31:26,617
+Jadi, aku berpikir...
+
+330
+00:31:30,042 --> 00:31:32,318
+Rekam Kim Ji Soo mengatakan beberapa hal.
+
+331
+00:31:32,713 --> 00:31:35,457
+- Tapi kenapa? - Bagaimana aku tahu?
+
+332
+00:31:35,713 --> 00:31:37,758
+Aku bahkan tidak tahu apa gunanya ini.
+
+333
+00:31:39,223 --> 00:31:40,483
+Jika kamu merekam seseorang dengan ini,
+
+334
+00:31:40,483 --> 00:31:42,622
+akan mengesankan orang itu di sebelahmu.
+
+335
+00:31:42,622 --> 00:31:43,791
+Benar.
+
+336
+00:31:43,792 --> 00:31:46,937
+Orang itu pasti ingin mendengar suaranya seperti dia ada di sana.
+
+337
+00:31:47,062 --> 00:31:48,463
+Siapa? Kenapa?
+
+338
+00:31:48,463 --> 00:31:50,233
+Aku harus tahu sebelum melakukannya.
+
+339
+00:31:50,233 --> 00:31:52,637
+Seseorang
+
+340
+00:31:53,703 --> 00:31:55,748
+- merindukan Kim Ji Soo. - Siapa?
+
+341
+00:31:56,473 --> 00:31:57,978
+Hentikan pembahasan ini.
+
+342
+00:31:59,872 --> 00:32:02,542
+Aku tidak cukup dekat dengannya untuk merekam suaranya.
+
+343
+00:32:02,542 --> 00:32:04,018
+Haruskah cukup dekat?
+
+344
+00:32:04,582 --> 00:32:07,483
+Kamu bisa beli peralatan makan lagi. Beli secara langsung.
+
+345
+00:32:07,483 --> 00:32:09,852
+Dan mengobrollah sebentar, lalu pergi,
+
+346
+00:32:09,852 --> 00:32:13,258
+"Astaga. Suaramu bagus sekali." Dan rekamlah.
+
+347
+00:32:13,423 --> 00:32:16,028
+Kamu merekam suara orang jika itu bagus?
+
+348
+00:32:16,392 --> 00:32:18,523
+Aku bukannya mau mendapatkan nomor telepon.
+
+349
+00:32:18,523 --> 00:32:21,308
+"Aku menyukaimu. Boleh kuminta suaramu?" Haruskah bilang begitu?
+
+350
+00:32:22,993 --> 00:32:24,338
+Lakukan saja.
+
+351
+00:33:56,392 --> 00:33:58,223
+Meja putar musik?
+
+352
+00:33:58,223 --> 00:34:00,238
+Itu sudah sangat kuno.
+
+353
+00:34:01,362 --> 00:34:02,937
+Entah apa masih berfungsi.
+
+354
+00:34:26,883 --> 00:34:29,898
+Apa hubunganmu dengan Kim Ji Soo?
+
+355
+00:34:30,093 --> 00:34:31,697
+Kami anak-anak yang seperti pulau.
+
+356
+00:34:33,963 --> 00:34:35,161
+Siapa?
+
+357
+00:34:35,162 --> 00:34:37,808
+Kamu bertanya soal aku dan Kim Ji Soo.
+
+358
+00:34:41,803 --> 00:34:43,947
+Sudah berapa lama kalian saling mengenal?
+
+359
+00:34:55,948 --> 00:35:00,948
+<font color="#0080ff">[VIU Ver] </font>
+<font color="#ff8080">tvN E01 'A Piece of Your Mind'  </font>
+<font color="#ff0080">-♥ Ruo Xi ♥-</font>
+
+360
+00:35:14,633 --> 00:35:18,202
+Kami hanya dua anak Korea di Norwegia
+
+361
+00:35:18,202 --> 00:35:19,518
+yang bertemu saat masih muda.
+
+362
+00:35:19,773 --> 00:35:21,518
+Mereka masuk SMP,
+
+363
+00:35:22,242 --> 00:35:23,817
+lalu masuk SMA.
+
+364
+00:36:25,903 --> 00:36:27,848
+Mereka bertemu segera setelah matahari terbit
+
+365
+00:36:27,872 --> 00:36:29,688
+dan berpisah setelah matahari terbenam.
+
+366
+00:36:31,242 --> 00:36:34,387
+Mereka menghabiskan waktu 24 jam bersama saat masa polar.
+
+367
+00:36:37,682 --> 00:36:39,628
+Mereka benci matahari terbenam melebihi apa pun.
+
+368
+00:36:43,693 --> 00:36:45,938
+- Ga. - Gya.
+
+369
+00:36:46,122 --> 00:36:48,592
+- Geo. - Gyeo.
+
+370
+00:36:48,593 --> 00:36:50,792
+- Go. - Gyo.
+
+371
+00:36:50,792 --> 00:36:52,907
+- Goo. - Gyoo.
+
+372
+00:36:55,073 --> 00:36:56,878
+Satu daun
+
+373
+00:36:57,372 --> 00:36:59,418
+jatuh di bahu
+
+374
+00:36:59,503 --> 00:37:02,788
+tanpa mengeluarkan suara.
+
+375
+00:37:03,142 --> 00:37:06,617
+Kosmos menyentuhku.
+
+376
+00:37:06,983 --> 00:37:08,958
+Itu sangat ringan.
+
+377
+00:37:10,253 --> 00:37:13,728
+Bahasa yang mereka pakai menjadi rahasia mereka
+
+378
+00:37:14,523 --> 00:37:16,168
+dan menyatukan anak-anak yang seperti pulau.
+
+379
+00:37:24,863 --> 00:37:26,261
+Siapa kamu?
+
+380
+00:37:26,262 --> 00:37:28,078
+Perkenalkan dirimu dahulu.
+
+381
+00:37:28,133 --> 00:37:30,078
+Maka aku akan menjelaskan hubungan itu.
+
+382
+00:37:35,213 --> 00:37:36,788
+Kenapa kamu bersembunyi...
+
+383
+00:37:37,943 --> 00:37:40,582
+Ada apa dengan suaranya? Kenapa kamu membutuhkannya?
+
+384
+00:37:40,582 --> 00:37:43,458
+Kamu tidak berencana menemui Ji Soo?
+
+385
+00:37:49,323 --> 00:37:50,323
+Bagaimana?
+
+386
+00:37:50,323 --> 00:37:51,622
+Aku tidak yakin.
+
+387
+00:37:51,622 --> 00:37:54,538
+Sepertinya dia akan melakukannya, tapi di saat yang sama, tidak.
+
+388
+00:37:54,792 --> 00:37:57,363
+Kenapa Paman menyuruhku melakukan hal seperti ini?
+
+389
+00:37:57,363 --> 00:37:59,438
+Kenapa Paman membutuhkan suara bodohnya?
+
+390
+00:38:01,702 --> 00:38:03,447
+Video sudah cukup.
+
+391
+00:38:04,173 --> 00:38:05,542
+Aku hanya ingin...
+
+392
+00:38:05,542 --> 00:38:07,078
+Aku hanya ingin
+
+393
+00:38:07,303 --> 00:38:09,117
+potongan kecil dirinya.
+
+394
+00:38:10,573 --> 00:38:13,918
+Di mana kamu sekarang?
+
+395
+00:38:16,753 --> 00:38:18,027
+Cari aku.
+
+396
+00:38:59,693 --> 00:39:03,237
+Aku hanya ingin sebagian kecil dirinya.
+
+397
+00:39:21,182 --> 00:39:22,487
+Halo.
+
+398
+00:39:23,053 --> 00:39:24,128
+Halo.
+
+399
+00:39:25,283 --> 00:39:26,797
+Kamu sudah selesai?
+
+400
+00:39:27,182 --> 00:39:30,567
+Tidak. Aku tidak bisa melihat dengan baik. Lampu tidak menyala.
+
+401
+00:39:40,262 --> 00:39:42,102
+Biasanya berfungsi jika kamu memukulnya beberapa kali.
+
+402
+00:39:42,102 --> 00:39:44,478
+Aku akan beri tahu manajernya nanti saat dia datang.
+
+403
+00:40:00,983 --> 00:40:02,098
+Sial.
+
+404
+00:40:12,003 --> 00:40:13,078
+Astaga.
+
+405
+00:40:14,233 --> 00:40:16,047
+Aku tidak bisa melihat sama sekali dalam gelap.
+
+406
+00:40:16,503 --> 00:40:19,277
+Aku juga tidak bisa melihat di bioskop.
+
+407
+00:40:19,503 --> 00:40:21,387
+- Kamu bisa lihat? - Ya.
+
+408
+00:40:21,972 --> 00:40:23,447
+Aku terbiasa dengan kegelapan.
+
+409
+00:40:28,582 --> 00:40:31,498
+- Lewat sini. - Aku bisa melihat itu.
+
+410
+00:40:34,122 --> 00:40:35,367
+Cari aku.
+
+411
+00:40:41,693 --> 00:40:43,137
+Permisi.
+
+412
+00:40:43,593 --> 00:40:45,863
+Pukul berapa kamu datang hari ini?
+
+413
+00:40:45,863 --> 00:40:47,878
+Aku datang lebih awal karena kudengar kosong.
+
+414
+00:40:48,003 --> 00:40:49,478
+Sekitar pukul 19.00?
+
+415
+00:40:49,503 --> 00:40:52,617
+Jadi, kamu di sini semalaman.
+
+416
+00:40:52,773 --> 00:40:54,018
+Benar.
+
+417
+00:40:56,173 --> 00:40:58,688
+Kukira aku mendengar suara yang mirip.
+
+418
+00:40:59,783 --> 00:41:02,288
+Dia bersembunyi, jadi, aku tidak bisa lihat wajahnya.
+
+419
+00:41:04,182 --> 00:41:05,423
+- Dia bersembunyi? - Ya.
+
+420
+00:41:05,423 --> 00:41:07,323
+Di peternakan manajer.
+
+421
+00:41:07,323 --> 00:41:09,352
+Dia memintaku merekam sesuatu.
+
+422
+00:41:09,352 --> 00:41:12,337
+Ada di ruangan dengan meja putar musik kuno.
+
+423
+00:41:12,392 --> 00:41:15,792
+Tidak ada tempat bersembunyi untuk orang, tapi dia bersembunyi.
+
+424
+00:41:15,792 --> 00:41:18,108
+Kapan Nenek meninggalkan Oslo?
+
+425
+00:41:18,162 --> 00:41:20,777
+Dia di sana dari tahun 1997 hingga 2005.
+
+426
+00:41:21,602 --> 00:41:23,308
+Apa katanya?
+
+427
+00:41:23,803 --> 00:41:26,348
+Mencarinya. Dia menyuruhku mencarinya.
+
+428
+00:41:27,273 --> 00:41:29,113
+Apa yang kamu katakan sampai dia mau kamu mencarinya?
+
+429
+00:41:29,113 --> 00:41:31,512
+Aku bertanya di mana dia dan dia menyuruhku mencarinya.
+
+430
+00:41:31,512 --> 00:41:32,983
+Kenapa kamu menanyakan keberadaannya?
+
+431
+00:41:32,983 --> 00:41:35,958
+Karena dia bersembunyi saat bicara denganku.
+
+432
+00:41:38,483 --> 00:41:39,483
+Itu aneh.
+
+433
+00:41:39,483 --> 00:41:41,427
+Aneh sekali.
+
+434
+00:41:41,792 --> 00:41:43,992
+Hidupku dipenuhi hal-hal aneh belakangan ini.
+
+435
+00:41:43,992 --> 00:41:46,523
+Orang-orang yang tidak kukenal tiba-tiba muncul
+
+436
+00:41:46,523 --> 00:41:48,467
+dan membuat permintaan aneh.
+
+437
+00:41:52,133 --> 00:41:53,808
+Maaf. Kamu sedang bekerja.
+
+438
+00:41:54,363 --> 00:41:56,348
+Waktu adalah uang.
+
+439
+00:41:57,503 --> 00:41:58,777
+Bekerja keraslah.
+
+440
+00:42:04,843 --> 00:42:07,087
+Permisi. Apa kamu
+
+441
+00:42:09,352 --> 00:42:11,951
+mengerti keinginan merekam suara seseorang
+
+442
+00:42:11,952 --> 00:42:13,098
+karena kamu merindukan mereka?
+
+443
+00:42:14,992 --> 00:42:17,067
+Itu tidak terlalu biasa,
+
+444
+00:42:17,093 --> 00:42:19,098
+tapi aku mengerti.
+
+445
+00:42:21,593 --> 00:42:24,392
+Entah kamu menghargai foto atau rekaman suara,
+
+446
+00:42:24,392 --> 00:42:26,208
+menurutku itu sama saja.
+
+447
+00:42:32,003 --> 00:42:33,418
+Selamat malam.
+
+448
+00:42:46,753 --> 00:42:49,197
+- Kurasa tidak apa-apa. - Jangan lakukan itu.
+
+449
+00:42:49,323 --> 00:42:50,598
+Dia aneh.
+
+450
+00:42:51,392 --> 00:42:54,268
+Kenapa seorang wanita menjual peralatan makan?
+
+451
+00:42:54,523 --> 00:42:56,392
+- Rekamlah. - Tidak.
+
+452
+00:42:56,392 --> 00:42:57,963
+Ini semua hanya taktik.
+
+453
+00:42:57,963 --> 00:43:00,208
+Seo Woo yang bodoh karena terjebak di tengah.
+
+454
+00:43:01,303 --> 00:43:02,808
+Katakan siapa kamu sebenarnya.
+
+455
+00:43:02,903 --> 00:43:05,702
+Siapa itu? Teman sekelas di departemen kami...
+
+456
+00:43:05,702 --> 00:43:06,773
+Dasar anak nakal!
+
+457
+00:43:06,773 --> 00:43:08,343
+Kubilang letakkan piring di wastafel.
+
+458
+00:43:08,343 --> 00:43:11,348
+Aku sudah selesai mencuci piring. Sial.
+
+459
+00:43:13,042 --> 00:43:15,788
+Aku merekam suaranya atau tidak?
+
+460
+00:43:19,622 --> 00:43:23,467
+"Sepotong, sepotong"
+
+461
+00:43:23,593 --> 00:43:25,538
+"Sepotong, sepotong"
+
+462
+00:43:34,303 --> 00:43:37,608
+Buka jendelanya saat sinar matahari masuk, ya?
+
+463
+00:43:37,803 --> 00:43:39,978
+Jangan tutup gordennya.
+
+464
+00:43:40,472 --> 00:43:42,288
+Di sana juga hujan seharian, bukan?
+
+465
+00:43:42,573 --> 00:43:44,742
+Kincir di bawah bukit dibanjiri.
+
+466
+00:43:44,742 --> 00:43:47,858
+Ruang pemanas dan ladang berantakan.
+
+467
+00:43:48,253 --> 00:43:51,697
+Kami baik-baik saja karena di tempat tinggi.
+
+468
+00:43:52,682 --> 00:43:56,193
+Seo Woo. Sekelompok anak muda datang hari ini,
+
+469
+00:43:56,193 --> 00:44:00,168
+berfoto dan berlibur. Itu tampak menyenangkan.
+
+470
+00:44:01,122 --> 00:44:02,737
+Kamu juga harus berkencan.
+
+471
+00:44:03,033 --> 00:44:04,808
+Kamu harus berkencan selagi masih muda.
+
+472
+00:44:06,432 --> 00:44:08,648
+Sudah kubilang ya.
+
+473
+00:44:14,972 --> 00:44:18,047
+Buka jendelanya saat sinar matahari masuk, ya?
+
+474
+00:44:18,443 --> 00:44:20,418
+Jangan tutup gordennya.
+
+475
+00:44:21,182 --> 00:44:22,728
+Di sana juga hujan seharian, bukan?
+
+476
+00:44:23,383 --> 00:44:25,398
+Kincir di bawah bukit dibanjiri.
+
+477
+00:44:25,523 --> 00:44:28,427
+Ruang pemanas dan ladang berantakan.
+
+478
+00:44:28,952 --> 00:44:31,498
+Kami baik-baik saja karena di tempat tinggi.
+
+479
+00:44:32,863 --> 00:44:36,233
+Seo Woo. Sekelompok anak muda datang hari ini,
+
+480
+00:44:36,233 --> 00:44:40,177
+berfoto dan berlibur. Itu tampak menyenangkan.
+
+481
+00:44:43,273 --> 00:44:46,518
+Aku memprogramnya agar hanya kamu dan aku yang bisa bicara dengannya.
+
+482
+00:44:47,273 --> 00:44:49,587
+Itu entah kesalahan sederhana atau kamu salah.
+
+483
+00:44:50,512 --> 00:44:53,213
+Kenapa kamu ceroboh sekali?
+
+484
+00:44:53,213 --> 00:44:54,458
+Kamu salah sendiri.
+
+485
+00:44:55,512 --> 00:44:56,852
+Sudah kubilang,
+
+486
+00:44:56,852 --> 00:44:59,558
+itu tidak bisa dipakai untuk terapi jika tidak bisa membatasi akses.
+
+487
+00:45:02,892 --> 00:45:05,237
+Aku memprogramnya ulang. Seharusnya sudah tidak masalah.
+
+488
+00:45:06,162 --> 00:45:09,168
+Gunakan itu. Cobalah bicara jika kamu bisa.
+
+489
+00:45:09,432 --> 00:45:11,677
+Maksudmu aku bisa bicara dengan itu atau tidak?
+
+490
+00:45:12,363 --> 00:45:13,507
+Sial.
+
+491
+00:45:41,963 --> 00:45:43,392
+- Astaga. - Kirimkan alamatnya
+
+492
+00:45:43,392 --> 00:45:44,963
+ke tempat aku trima paket. Aku akan melakukannya.
+
+493
+00:45:44,963 --> 00:45:46,837
+Kenapa kamu membuatnya rumit?
+
+494
+00:45:47,202 --> 00:45:48,748
+Kamu harus menerimanya di tempat yang biasanya.
+
+495
+00:46:01,082 --> 00:46:03,387
+Hei. Kirimkan alamat di Seoul.
+
+496
+00:46:03,483 --> 00:46:05,382
+Seo Woo bilang dia akan melakukannya.
+
+497
+00:46:05,383 --> 00:46:06,558
+"77-30 Wokin 4-gil"
+
+498
+00:46:19,432 --> 00:46:20,837
+Apa yang kamu lihat?
+
+499
+00:46:21,633 --> 00:46:22,978
+Pohon.
+
+500
+00:46:24,073 --> 00:46:26,217
+Melihat sesuatu yang berwarna hijau menenangkanku.
+
+501
+00:46:27,972 --> 00:46:29,912
+Aku akan menghalangi pandanganmu jika duduk di sini.
+
+502
+00:46:29,912 --> 00:46:32,217
+- Aku duduk di samping saja? - Tidak apa-apa.
+
+503
+00:46:35,653 --> 00:46:36,912
+Kamu bekerja di dekat sini?
+
+504
+00:46:36,912 --> 00:46:38,927
+Ya, beberapa halte dari sini.
+
+505
+00:46:39,923 --> 00:46:41,952
+Aku meminta bertemu untuk membeli lagi.
+
+506
+00:46:41,952 --> 00:46:43,328
+Kamu suka peralatan makannya?
+
+507
+00:46:43,892 --> 00:46:45,898
+Ini juga cocok dengan makanan tradisional Korea.
+
+508
+00:46:50,262 --> 00:46:51,803
+Mau kukirimkan ke alamat yang sama?
+
+509
+00:46:51,803 --> 00:46:55,748
+Tidak. Jangan ke sana. Jangan bawa sendiri kali ini. Berat.
+
+510
+00:46:56,533 --> 00:46:58,407
+Di mana alamatnya?
+
+511
+00:46:58,742 --> 00:47:01,277
+Apa, ya? Ini untuk teman.
+
+512
+00:47:02,073 --> 00:47:03,418
+Aku akan mencatatnya.
+
+513
+00:47:09,082 --> 00:47:10,157
+"Resep"
+
+514
+00:47:19,193 --> 00:47:21,867
+"Resep, Nama, Kim Ji Soo"
+
+515
+00:47:24,133 --> 00:47:25,637
+Ini resepku.
+
+516
+00:47:25,832 --> 00:47:27,938
+Aku tahu. Aku juga tahu obat.
+
+517
+00:47:29,602 --> 00:47:32,602
+Aku juga pernah menemui psikiater. Hanya sekali.
+
+518
+00:47:32,602 --> 00:47:35,487
+Itu sama seperti flu biasa zaman sekarang.
+
+519
+00:47:41,312 --> 00:47:42,688
+Di mana aku harus menulisnya?
+
+520
+00:47:44,582 --> 00:47:46,458
+Akan kukirimkan kepadamu.
+
+521
+00:47:48,323 --> 00:47:51,797
+Benar. Itu sangat sederhana. Ada apa denganku?
+
+522
+00:47:54,222 --> 00:47:58,237
+Saat merasa frustrasi, aku ke tempat tertinggi di kota.
+
+523
+00:48:00,963 --> 00:48:02,673
+Melihat ke bawah itu menenangkan.
+
+524
+00:48:02,673 --> 00:48:05,773
+Kata orang, saat astronaut melihat Bumi dari angkasa,
+
+525
+00:48:05,773 --> 00:48:07,542
+mereka mendapatkan pandangan hidup baru.
+
+526
+00:48:07,542 --> 00:48:09,188
+Semua kekhawatiran mereka tampak sepele.
+
+527
+00:48:16,012 --> 00:48:17,688
+Karena itu aku menjual peralatan makan.
+
+528
+00:48:18,682 --> 00:48:19,958
+Setelah sesiku,
+
+529
+00:48:20,483 --> 00:48:22,197
+aku merasa harus melakukan sesuatu.
+
+530
+00:48:22,253 --> 00:48:24,697
+Jadi, aku mengunggah foto peralatan makan yang kusayangi.
+
+531
+00:48:25,053 --> 00:48:26,423
+Saat kukirimkan kepadamu,
+
+532
+00:48:26,423 --> 00:48:28,498
+itu kali pertamaku meninggalkan rumah dalam tiga bulan.
+
+533
+00:48:31,932 --> 00:48:33,007
+Permisi.
+
+534
+00:48:41,173 --> 00:48:42,242
+Apa?
+
+535
+00:48:42,242 --> 00:48:45,117
+Kamu tahu, seperti a-e-i-o-u.
+
+536
+00:48:45,412 --> 00:48:48,553
+Konsonan, vokal, kalimat.
+
+537
+00:48:48,553 --> 00:48:51,257
+Kalimat apa? Omongan Paman tidak masuk akal.
+
+538
+00:48:51,352 --> 00:48:52,697
+Aku akan mengirimkan surel.
+
+539
+00:48:52,852 --> 00:48:54,628
+Aku tidak tahu sekalipun melihatnya.
+
+540
+00:48:55,222 --> 00:48:58,797
+Periksa surelmu. Itu akan menjelaskan semuanya.
+
+541
+00:48:58,863 --> 00:49:00,668
+Sampaikan itu saat kamu merekam suaranya.
+
+542
+00:49:03,593 --> 00:49:04,737
+Apa itu tadi?
+
+543
+00:50:37,352 --> 00:50:38,467
+Ayo.
+
+544
+00:51:50,463 --> 00:51:52,978
+Won, lihatlah langit-langit.
+
+545
+00:51:55,303 --> 00:51:56,547
+Sungguh menenangkan.
+
+546
+00:52:02,312 --> 00:52:03,447
+Masuklah.
+
+547
+00:52:10,383 --> 00:52:11,927
+Berdirilah di depan mikrofon.
+
+548
+00:52:12,983 --> 00:52:14,058
+Aku?
+
+549
+00:52:16,923 --> 00:52:18,697
+Katakan apa pun yang kamu inginkan.
+
+550
+00:52:20,562 --> 00:52:22,832
+- Lalu? - Aku akan merekamnya.
+
+551
+00:52:22,832 --> 00:52:26,137
+Jika ada yang merindukanmu, akan kujual dengan harga tinggi.
+
+552
+00:52:27,463 --> 00:52:29,078
+Tidak ada orang seperti itu.
+
+553
+00:52:31,073 --> 00:52:34,717
+Bukankah setidaknya ada satu orang yang merindukan orang tertentu?
+
+554
+00:52:37,773 --> 00:52:40,688
+- Entahlah. - Jangan terlalu memikirkannya.
+
+555
+00:52:41,182 --> 00:52:43,188
+Kamu tidak perlu melakukannya jika tidak mau.
+
+556
+00:52:47,952 --> 00:52:49,628
+Apa yang harus kulakukan?
+
+557
+00:52:51,553 --> 00:52:55,507
+Pertama, mari mulai dengan dasar. Ga, na, da, ra, dan seterusnya.
+
+558
+00:52:56,133 --> 00:52:58,067
+Kamu bisa mulai setelah kuberi aba-aba.
+
+559
+00:53:05,903 --> 00:53:07,018
+Ga.
+
+560
+00:53:11,042 --> 00:53:12,157
+Gya.
+
+561
+00:53:12,742 --> 00:53:13,817
+- Geo. - Geo.
+
+562
+00:53:14,542 --> 00:53:15,657
+- Gyeo. - Gyeo.
+
+563
+00:53:16,812 --> 00:53:17,927
+- Go. - Go.
+
+564
+00:53:18,783 --> 00:53:19,858
+- Gyo. - Gyo.
+
+565
+00:53:21,053 --> 00:53:22,228
+- Goo. - Goo.
+
+566
+00:53:22,722 --> 00:53:24,628
+- Gyoo. - Gyoo.
+
+567
+00:53:26,923 --> 00:53:29,137
+Bukankah itu ga, na, da, ra?
+
+568
+00:53:31,533 --> 00:53:33,777
+Mari kita lakukan sesuatu yang lebih panjang kali ini.
+
+569
+00:53:34,003 --> 00:53:36,007
+Aku akan memberimu kalimat. Tunggu.
+
+570
+00:53:39,372 --> 00:53:40,547
+Satu
+
+571
+00:53:41,403 --> 00:53:42,617
+daun
+
+572
+00:53:44,613 --> 00:53:46,858
+jatuh di bahu
+
+573
+00:53:47,742 --> 00:53:50,128
+tanpa membuat
+
+574
+00:53:51,912 --> 00:53:54,398
+suara.
+
+575
+00:53:58,323 --> 00:54:00,268
+Kosmos
+
+576
+00:54:00,923 --> 00:54:02,837
+menyentuhku.
+
+577
+00:54:05,662 --> 00:54:06,907
+Rasanya
+
+578
+00:54:08,832 --> 00:54:10,108
+sangat ringan.
+
+579
+00:54:10,403 --> 00:54:11,808
+Rasanya
+
+580
+00:54:12,303 --> 00:54:13,878
+sangat ringan.
+
+581
+00:54:28,182 --> 00:54:31,498
+Kamu tahu kalimat tadi? Kamu hafal.
+
+582
+00:54:32,023 --> 00:54:36,168
+Aku belajar bahasa Korea di Norwegia memakai puisi dan novel Korea.
+
+583
+00:54:39,463 --> 00:54:41,702
+Akan kukirim mangkuknya setelah tiba di rumah.
+
+584
+00:54:41,702 --> 00:54:43,608
+Alamatnya.
+
+585
+00:54:47,142 --> 00:54:49,487
+Di dekat kafe.
+
+586
+00:54:51,312 --> 00:54:54,458
+Aku belum pernah ke rumahnya.
+
+587
+00:54:55,443 --> 00:54:58,157
+"Kim Ji Soo"
+
+588
+00:54:59,682 --> 00:55:01,058
+Aku sudah mengirimkannya.
+
+589
+00:55:04,693 --> 00:55:06,567
+Baiklah. Sampai jumpa.
+
+590
+00:55:12,432 --> 00:55:16,547
+"Han Seo Woo, 47-341 Wokin-dong, Jongro-gu"
+
+591
+00:55:40,992 --> 00:55:42,467
+Ha Won, bukan?
+
+592
+00:55:44,292 --> 00:55:47,708
+Apa Ha Won menyuruhmu melakukan ini? Semuanya?
+
+593
+00:55:49,796 --> 00:56:49,690
+(Ads 00:55:49 --> 00:56:49)
+
+594
+00:56:51,833 --> 00:56:53,079
+Ha Won, bukan?
+
+595
+00:56:55,004 --> 00:56:58,389
+Apa Ha Won menyuruhmu melakukan ini? Semuanya?
+
+596
+00:56:59,544 --> 00:57:01,013
+Aku tidak tahu siapa dia.
+
+597
+00:57:01,013 --> 00:57:02,559
+Alamat yang kamu kirimkan kepadaku...
+
+598
+00:57:02,853 --> 00:57:05,088
+Hanya Ha Won dan aku yang tahu alamat itu.
+
+599
+00:57:18,433 --> 00:57:19,964
+Aku tidak tahu.
+
+600
+00:57:19,964 --> 00:57:21,838
+Bagaimana dengan alamat ini?
+
+601
+00:57:22,803 --> 00:57:24,274
+Siapa yang tinggal di sini?
+
+602
+00:57:24,274 --> 00:57:25,973
+Atasanku.
+
+603
+00:57:25,973 --> 00:57:28,344
+Siapa nama atasanmu?
+
+604
+00:57:28,344 --> 00:57:30,149
+Moon Soon Ho.
+
+605
+00:57:31,814 --> 00:57:33,318
+Maka bukan dia.
+
+606
+00:57:34,214 --> 00:57:36,614
+Benar. Itu tidak masuk akal.
+
+607
+00:57:36,614 --> 00:57:38,729
+Aku hanya terlalu sensitif.
+
+608
+00:57:39,083 --> 00:57:40,798
+Dia tidak akan pernah melakukan itu.
+
+609
+00:57:41,324 --> 00:57:43,468
+Kamu baik-baik saja?
+
+610
+00:58:12,824 --> 00:58:13,928
+Seo Woo.
+
+611
+00:58:14,884 --> 00:58:16,053
+Siapa itu tadi?
+
+612
+00:58:16,053 --> 00:58:17,869
+Jantungku.
+
+613
+00:58:18,424 --> 00:58:20,123
+Aku tidak bisa mengatasi ini.
+
+614
+00:58:20,123 --> 00:58:22,738
+Aku sudah menghabiskan kebohonganku untuk seluruh hidupku hari ini.
+
+615
+00:58:22,964 --> 00:58:25,639
+Hei. Siapa itu?
+
+616
+00:58:25,864 --> 00:58:27,338
+Kim Ji Soo.
+
+617
+00:58:30,333 --> 00:58:33,003
+Apa? Kamu gila?
+
+618
+00:58:33,004 --> 00:58:34,444
+Kenapa kamu membawanya ke sini?
+
+619
+00:58:34,444 --> 00:58:36,519
+Bagaimana dengan Ha Won?
+
+620
+00:58:37,143 --> 00:58:41,243
+Ha Won mengatakan kepadanya, "Ini aku, Ha Won."
+
+621
+00:58:41,243 --> 00:58:45,028
+Saat melihat alamatnya, dia tanya, "Ha Won menyuruhmu, bukan?"
+
+622
+00:58:45,413 --> 00:58:47,123
+Dia bilang itu alamat yang hanya diketahui mereka berdua.
+
+623
+00:58:47,123 --> 00:58:48,329
+Tidak.
+
+624
+00:58:48,524 --> 00:58:52,324
+Kalimat yang dia hafal dan alamat yang dia tahu.
+
+625
+00:58:52,324 --> 00:58:55,798
+Dia mengirimkan semua pesan yang bertuliskan, "Cari aku."
+
+626
+00:58:57,433 --> 00:59:00,338
+Dia harus menunjukkan wajahnya sekarang.
+
+627
+00:59:01,333 --> 00:59:02,778
+Kenapa dia tidak datang?
+
+628
+00:59:04,004 --> 00:59:06,743
+Kenapa kamu membawanya ke sini?
+
+629
+00:59:06,743 --> 00:59:08,742
+Siapa Ha Won?
+
+630
+00:59:08,743 --> 00:59:09,743
+Kenapa?
+
+631
+00:59:09,743 --> 00:59:11,143
+Dia menyuruhku mencarinya.
+
+632
+00:59:11,143 --> 00:59:13,488
+Benarkah? Kepadamu?
+
+633
+00:59:14,513 --> 00:59:16,913
+Dia sudah gila.
+
+634
+00:59:16,913 --> 00:59:18,614
+Itu sebabnya kamu membawa Ji Soo kemari.
+
+635
+00:59:18,614 --> 00:59:21,623
+Aku tidak tahan.
+
+636
+00:59:21,623 --> 00:59:23,568
+Kamu bodoh.
+
+637
+00:59:26,223 --> 00:59:27,924
+Aku tidak akan melakukan apa pun untukmu lagi.
+
+638
+00:59:27,924 --> 00:59:30,209
+Jangan memintaku melakukan apa pun lagi.
+
+639
+00:59:31,234 --> 00:59:34,678
+Satu daun
+
+640
+00:59:36,933 --> 00:59:39,278
+jatuh di bahu
+
+641
+00:59:40,373 --> 00:59:41,444
+tanpa...
+
+642
+00:59:41,444 --> 00:59:43,789
+Aku selesai setelah mengirimkan ini.
+
+643
+00:59:44,743 --> 00:59:46,358
+Membuat suara.
+
+644
+00:59:47,314 --> 00:59:48,944
+Kosmos...
+
+645
+00:59:48,944 --> 00:59:50,114
+Nada suaranya makin rendah.
+
+646
+00:59:50,114 --> 00:59:51,814
+- Menyentuhku. - Apa?
+
+647
+00:59:51,814 --> 00:59:54,128
+190Hz, tanpa bas.
+
+648
+00:59:54,583 --> 00:59:56,528
+Sekitar 55 desibel.
+
+649
+00:59:56,694 --> 00:59:57,968
+Itu
+
+650
+00:59:58,723 --> 01:00:00,338
+sangat ringan.
+
+651
+01:00:00,524 --> 01:00:01,694
+Suaranya terdengar depresi.
+
+652
+01:00:01,694 --> 01:00:03,039
+Kamu benar.
+
+653
+01:00:07,964 --> 01:00:10,778
+Jawab saja dengan akal sehat.
+
+654
+01:00:13,103 --> 01:00:17,149
+Studio rekaman ini ada hubungannya dengan pria bernama Ha Won.
+
+655
+01:00:17,444 --> 01:00:19,714
+Mulai dari merekrutku hingga detail kecil.
+
+656
+01:00:19,714 --> 01:00:22,088
+Entah sudah berapa lama dia merencanakannya,
+
+657
+01:00:22,344 --> 01:00:24,829
+tapi dia melakukan semuanya sambil bersembunyi.
+
+658
+01:00:24,953 --> 01:00:26,829
+Dia sangat teliti.
+
+659
+01:00:27,484 --> 01:00:30,324
+Semuanya mengarah kepada gadis itu, Kim Ji Soo.
+
+660
+01:00:30,324 --> 01:00:31,893
+Dia sangat merindukannya.
+
+661
+01:00:31,893 --> 01:00:33,893
+Tapi Ji Soo depresi.
+
+662
+01:00:33,893 --> 01:00:35,269
+Karena itulah...
+
+663
+01:00:38,333 --> 01:00:40,809
+Bagaimana jika aku membuat mereka berdua
+
+664
+01:00:41,504 --> 01:00:43,849
+bertemu? Bagaimana menurutmu?
+
+665
+01:00:46,373 --> 01:00:49,743
+Apa yang kulakukan? Apa aku hanya menjadi orang yang suka ikut campur?
+
+666
+01:00:49,743 --> 01:00:50,889
+Benar, bukan?
+
+667
+01:00:51,373 --> 01:00:53,588
+Biasanya aku tidak terlibat dalam urusan orang lain.
+
+668
+01:00:53,743 --> 01:00:56,088
+Kenapa kamu ingin melakukan itu untuk mereka?
+
+669
+01:01:00,324 --> 01:01:03,099
+Kamu tidak ingat kesan pertama semua orang, bukan?
+
+670
+01:01:03,424 --> 01:01:04,568
+Mungkin tidak.
+
+671
+01:01:05,623 --> 01:01:08,369
+Aku juga. Aku tidak ingat semuanya.
+
+672
+01:01:08,924 --> 01:01:12,269
+Tapi ada beberapa orang yang kali pertama kamu temui,
+
+673
+01:01:12,433 --> 01:01:15,278
+tapi kamu ingat cara orang itu membuka pintu dan masuk,
+
+674
+01:01:15,533 --> 01:01:18,709
+apakah mereka duduk atau berdiri,
+
+675
+01:01:18,904 --> 01:01:21,278
+atau bagaimana kalian mulai berbincang.
+
+676
+01:01:21,844 --> 01:01:25,318
+Waktu tidak bisa menghapus saat kali pertama kalian bertemu.
+
+677
+01:01:27,114 --> 01:01:30,729
+Cara mereka mendaki bukit.
+
+678
+01:01:33,783 --> 01:01:36,723
+Orang seperti itu cenderung bertahan dalam hidupku untuk waktu lama.
+
+679
+01:01:36,723 --> 01:01:39,968
+Ji Soo seperti itu. Aku ingin membantunya.
+
+680
+01:01:51,973 --> 01:01:54,519
+Kamu selalu menatap orang dengan terang-terangan seperti itu?
+
+681
+01:01:55,873 --> 01:01:57,249
+Apa aku melakukan itu?
+
+682
+01:01:57,544 --> 01:01:59,343
+Alasanmu menarik.
+
+683
+01:01:59,344 --> 01:02:00,544
+Itu persuasif.
+
+684
+01:02:00,544 --> 01:02:01,818
+Apakah itu meyakinkan?
+
+685
+01:02:03,154 --> 01:02:05,658
+Saat kamu bersimpati...
+
+686
+01:02:07,484 --> 01:02:09,899
+Saat kamu bersimpati tanpa alasan yang jelas,
+
+687
+01:02:10,524 --> 01:02:13,993
+itu karena lapisan citra yang berkumpul seiring waktu.
+
+688
+01:02:13,993 --> 01:02:17,008
+Aku tidak pernah memikirkan kesan pertama yang kamu sebutkan.
+
+689
+01:02:24,174 --> 01:02:26,349
+Aku ingat jelas saat kali pertama melihatmu.
+
+690
+01:02:34,083 --> 01:02:35,218
+Aku juga.
+
+691
+01:02:35,513 --> 01:02:37,114
+Aku melihatmu di sini.
+
+692
+01:02:37,114 --> 01:02:39,858
+Kamu di dalam dan aku di luar sini.
+
+693
+01:02:53,703 --> 01:02:55,734
+Lihat? Kamu tidak ingat.
+
+694
+01:02:55,734 --> 01:02:57,709
+Kurasa aku hanya lewat.
+
+695
+01:03:00,703 --> 01:03:03,718
+Haruskah aku minta mereka berdua bertemu?
+
+696
+01:03:06,283 --> 01:03:09,019
+Bagaimana jika bertemu hanya membuat mereka makin tersakiti?
+
+697
+01:03:09,583 --> 01:03:11,358
+Kalau begitu, itu takdir mereka.
+
+698
+01:04:01,234 --> 01:04:04,349
+Buka jendelanya saat sinar matahari masuk, ya?
+
+699
+01:04:04,774 --> 01:04:06,718
+Jangan tutup gordennya.
+
+700
+01:04:07,444 --> 01:04:09,048
+Di sana juga hujan seharian, bukan?
+
+701
+01:04:09,614 --> 01:04:11,814
+Kincir di bawah bukit dibanjiri.
+
+702
+01:04:11,814 --> 01:04:14,658
+Ruang pemanas dan ladang berantakan.
+
+703
+01:04:21,683 --> 01:04:24,769
+Aku tidak bicara dengan orang yang tidak tahu musik.
+
+704
+01:04:25,123 --> 01:04:27,269
+Pak. Bukan begitu.
+
+705
+01:04:27,424 --> 01:04:29,968
+Ya. Dia di sini. Musisi itu.
+
+706
+01:04:30,134 --> 01:04:32,134
+Sejak kapan Seo Woo menjadi musisi?
+
+707
+01:04:32,134 --> 01:04:34,564
+Halo. Biar kujelaskan.
+
+708
+01:04:34,564 --> 01:04:36,349
+Aku tidak peduli dengan alasanmu.
+
+709
+01:04:36,774 --> 01:04:39,448
+Kamu bisa mengirim pesan bahwa rekamannya dibatalkan.
+
+710
+01:04:39,904 --> 01:04:41,019
+Apa aku salah?
+
+711
+01:04:44,413 --> 01:04:47,183
+Studio kami sudah tutup, jadi, kami pikir
+
+712
+01:04:47,183 --> 01:04:49,444
+semua yang dijadwalkan sebelumnya sudah dibatalkan.
+
+713
+01:04:49,444 --> 01:04:50,553
+Aku sudah cukup dengar.
+
+714
+01:04:50,553 --> 01:04:52,384
+Ada jadwal lain.
+
+715
+01:04:52,384 --> 01:04:54,928
+Begitu. Jadi, dia melakukan itu, tapi bukan ini?
+
+716
+01:04:54,984 --> 01:04:57,468
+Aku akan segera menelepon Pak Choi.
+
+717
+01:04:57,553 --> 01:05:00,169
+Pak, kumohon.
+
+718
+01:05:02,564 --> 01:05:03,809
+Selesaikan sekali rekam.
+
+719
+01:05:04,163 --> 01:05:06,064
+Kamu ingin aku melakukannya?
+
+720
+01:05:06,064 --> 01:05:08,039
+Bicara dengan Jin Moo soal mixing.
+
+721
+01:05:08,303 --> 01:05:10,878
+- Mari akhiri saja... - Aku akan melakukannya.
+
+722
+01:05:12,603 --> 01:05:15,103
+Aku akan mendiskusikan mixing dengan Pak Choi,
+
+723
+01:05:15,103 --> 01:05:17,119
+- dan jika dia bilang itu buruk... - Hapus.
+
+724
+01:05:17,714 --> 01:05:19,088
+Dan kami tidak akan merekam lagi.
+
+725
+01:05:27,553 --> 01:05:29,099
+Ini sangat menghina.
+
+726
+01:05:30,824 --> 01:05:32,698
+Lebih menghina untuk kembali.
+
+727
+01:06:47,163 --> 01:06:48,278
+Halo.
+
+728
+01:07:01,814 --> 01:07:03,488
+Apa yang kamu lakukan?
+
+729
+01:07:05,953 --> 01:07:07,028
+Apa?
+
+730
+01:07:08,924 --> 01:07:10,798
+Aku akan menemui Kim Ji Soo.
+
+731
+01:07:11,553 --> 01:07:12,928
+Kamu bilang tidak akan melakukan apa pun.
+
+732
+01:07:13,194 --> 01:07:15,798
+Suruh Ha Won datang.
+
+733
+01:07:17,033 --> 01:07:19,269
+Hei! Kamu baik-baik saja?
+
+734
+01:07:21,163 --> 01:07:22,338
+Ada apa dengannya?
+
+735
+01:07:22,933 --> 01:07:25,649
+Kepala. Ini Hoon.
+
+736
+01:07:30,143 --> 01:07:32,344
+- Hei. - Soon Ho menyuruhmu meneleponnya.
+
+737
+01:07:32,344 --> 01:07:34,358
+Dia tahu kamu tidak menjawab teleponmu selama ini.
+
+738
+01:07:34,844 --> 01:07:36,988
+Pasti mendesak jika dia meneleponku.
+
+739
+01:08:03,214 --> 01:08:05,048
+"Han Seo Woo"
+
+740
+01:08:14,183 --> 01:08:15,298
+Halo.
+
+741
+01:08:16,154 --> 01:08:17,353
+"Han Seo Woo"
+
+742
+01:08:17,353 --> 01:08:18,568
+Anda sendirian?
+
+743
+01:08:18,824 --> 01:08:20,468
+Kurasa dia belum datang.
+
+744
+01:08:21,524 --> 01:08:23,368
+Anda mau memesan lebih dahulu?
+
+745
+01:08:25,263 --> 01:08:26,368
+Tentu.
+
+746
+01:08:38,274 --> 01:08:39,389
+Ji Soo.
+
+747
+01:08:40,143 --> 01:08:42,319
+- Ji Soo? - Ya, Seo Woo.
+
+748
+01:08:44,654 --> 01:08:46,758
+Aku agak terlambat.
+
+749
+01:08:47,923 --> 01:08:49,229
+Di mana kamu?
+
+750
+01:08:49,853 --> 01:08:51,529
+Kurasa aku melihat seseorang.
+
+751
+01:08:52,454 --> 01:08:54,168
+Aku tidak boleh menemuinya.
+
+752
+01:08:58,263 --> 01:09:00,378
+Apa orang yang tidak bisa kamu temui?
+
+753
+01:09:02,803 --> 01:09:04,008
+Ha Won, bukan?
+
+754
+01:09:06,803 --> 01:09:08,819
+- Kamu tidak boleh menemuinya? - Tidak, tidak pernah.
+
+755
+01:09:14,013 --> 01:09:15,159
+Jangan menoleh ke belakang.
+
+756
+01:09:30,194 --> 01:09:31,309
+Lari.
+
+757
+01:09:56,454 --> 01:09:58,168
+Itu bukan apa-apa.
+
+758
+01:10:00,763 --> 01:10:02,838
+Aku belum pernah bertemu dengannya,
+
+759
+01:10:05,734 --> 01:10:07,109
+tapi dia
+
+760
+01:10:08,433 --> 01:10:09,609
+memasuki hatiku.
+
+761
+01:10:50,774 --> 01:10:53,143
+"A Piece of Your Mind"
+
+762
+01:10:53,143 --> 01:10:56,319
+Seharusnya aku tidak melakukan apa pun.
+
+763
+01:10:56,654 --> 01:10:59,383
+Ada yang ingin kamu tanyakan kepada Ha Won?
+
+764
+01:10:59,383 --> 01:11:01,159
+Aku ingin melihatnya dari jauh.
+
+765
+01:11:02,253 --> 01:11:03,928
+Aku tidak akan kabur lain kali.
+
+766
+01:11:04,353 --> 01:11:05,569
+Lain kali? Kapan?
+
+767
+01:11:06,154 --> 01:11:07,739
+Jika aku bisa minta maaf...
+
+768
+01:11:07,824 --> 01:11:09,269
+Sudah kubilang, tidak perlu minta maaf.
+
+769
+01:11:09,423 --> 01:11:11,338
+Sudah kubilang berkali-kali, ini terlalu berat bagiku.
+
+770
+01:11:12,263 --> 01:11:15,309
+Menurutmu bagaimana mereka bertahan 10 tahun?
+
+771
+01:11:15,664 --> 01:11:17,909
+Mari kita pergi besok.
+
